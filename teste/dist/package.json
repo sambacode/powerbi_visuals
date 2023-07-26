@@ -1,0 +1,17 @@
+{
+		"version": "1.0.0.0",
+		"author": {"name":"Pedro Monzu Campos","email":"pedro.campos@bwgi.com.br"},
+		"resources": [
+			{
+				"resourceId": "rId0",
+				"sourceType": 5,
+				"file": "resources/testeC13F146B747A4172808DC7D814E48CB0.pbiviz.json"
+			}
+		],
+		"visual": {"name":"teste","displayName":"teste","guid":"testeC13F146B747A4172808DC7D814E48CB0","visualClassName":"Visual","version":"1.0.0.0","description":"Testing Visual","supportUrl":"https://www.google.com","gitHubUrl":""},
+		"metadata": {
+			"pbivizjson": {
+				"resourceId": "rId0"
+			}
+		}
+	}
